@@ -1,6 +1,8 @@
 # Parking-Detection-and-reservation-using-AI
 This project is about using a trained CNN model to predict and reserve parking lot.
-Dataset folder has the test and train images 
+The model is trained using PKlot dataset 
+https://www.kaggle.com/datasets/ammarnassanalhajali/pklot-dataset
+the above contains the dataset and it has annotations in a json file
 And the code is written in python
 
 ![image](https://github.com/user-attachments/assets/7e549f10-da3e-4700-9eb8-02614c642cc0)
